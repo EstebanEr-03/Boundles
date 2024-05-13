@@ -1,0 +1,5 @@
+Bundle-ManifestVersion: 2
+Bundle-Name: Producer
+Bundle-SymbolicName: com.osgi.producer
+Bundle-Version: 1.0.0
+Export-Package: com.osgi

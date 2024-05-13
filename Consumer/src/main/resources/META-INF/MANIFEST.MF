@@ -1,0 +1,5 @@
+Bundle-ManifestVersion: 2
+Bundle-Name: Consumer
+Bundle-SymbolicName: com.osgi.consumer
+Bundle-Version: 1.0.0
+Import-Package: com.osgi
